@@ -1,6 +1,6 @@
-<h1> Flappy Club🎮</h1>
+<h1> Flappy Bird🎮</h1>
 
-O projeto que desenvolvi durante o DevClub, sob a mentoria do Daniel Corrêa : um jogo interativo do Flippy Bird! 
+O projeto que desenvolvi durante o DevClub, sob a mentoria do Daniel Corrêa : um jogo interativo do Flappy Bird! 
 
 <h2>Como Jogar</h2>
 <ul>
@@ -11,14 +11,17 @@ O projeto que desenvolvi durante o DevClub, sob a mentoria do Daniel Corrêa : u
 
 <li>Game Over: Se o passaro colidir com um tubo, a tela "Game Over" aparecerá.
 
-<li>Recomece: Clique no botão "F5" para recarregar o jogo ou barra para jogar.
+<li>Recomece: Clique no botão "F5" para recarregar o jogo ou barra para jogar.</ul>
 <br>
-<li><b> Tecnologias utilizadas:</b>
-<li>HTML, CSS e Java Script.</li>
-<li>Se divirtasse...e vamos juntos nessa jornada de aprendizado e diversão! 🚀 
-</ul>
-<h2>🔍 Design Web</h2>
-<video src=".">
+<br>
+<h3><b> 🎮Tecnologias utilizadas:</b></h3>
+ HTML, CSS e Java Script.
+<br>
+<br>
+Se divirtasse...e vamos juntos nessa jornada de aprendizado e diversão! 🚀 
+
+<h2>🔍 Design do Jogo</h2>
+<video src="https://github.com/Suellenrosana/flappy-club-master/blob/main/assets/Flappybird-capa.png?raw=true">
 
 
 
