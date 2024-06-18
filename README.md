@@ -13,7 +13,6 @@ O projeto que desenvolvi durante o DevClub, sob a mentoria do Daniel Corrêa : u
 
 <li>Recomece: Clique no botão "F5" para recarregar o jogo ou barra para jogar.</ul>
 <br>
-<br>
 <h3><b> 🎮Tecnologias utilizadas:</b></h3>
  HTML, CSS e Java Script.
 <br>
@@ -21,7 +20,7 @@ O projeto que desenvolvi durante o DevClub, sob a mentoria do Daniel Corrêa : u
 Se divirtasse...e vamos juntos nessa jornada de aprendizado e diversão! 🚀 
 
 <h2>🔍 Design do Jogo</h2>
-<video src="https://github.com/Suellenrosana/flappy-club-master/blob/main/assets/Flappybird-capa.png?raw=true">
+<img src="https://github.com/Suellenrosana/flappy-club-master/blob/main/assets/Flappybird-capa.png?raw=true">
 
 
 
