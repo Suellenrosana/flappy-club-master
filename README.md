@@ -13,7 +13,7 @@ O projeto que desenvolvi durante o DevClub, sob a mentoria do Daniel Corrêa : u
 
 <li>Recomece: Clique no botão "F5" para recarregar o jogo ou barra para jogar.</ul>
 <br>
-<h3><b> 🎮Tecnologias utilizadas:</b></h3>
+<h3><b>Tecnologias utilizadas:</b></h3>
  HTML, CSS e Java Script.
 <br>
 <br>
